@@ -17,7 +17,7 @@ Featuring 12 unique stylistic sets, commonly-used characters can be replaced wit
 | Axis Name | Description  | Range   |
 | --------- | ------------ | ------- |
 | `wdth`    | Width        | 75-100  |
-| `wdth`    | Weight       | 400-700 |
+| `wght`    | Weight       | 400-700 |
 | `ital`    | Italic Slant | 0-100   |
 
 ## Opentype Features
